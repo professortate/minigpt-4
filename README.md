@@ -204,3 +204,4 @@ If you're using MiniGPT-4/MiniGPT-v2 in your research or applications, please ci
 This repository is under [BSD 3-Clause License](LICENSE.md).
 Many codes are based on [Lavis](https://github.com/salesforce/LAVIS) with 
 BSD 3-Clause License [here](LICENSE_Lavis.md).
+"# minigpt-4" 
